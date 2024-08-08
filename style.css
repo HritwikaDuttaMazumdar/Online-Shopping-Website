@@ -1,4 +1,3 @@
-/********** Common CSS Starts **********/  
 html, body {
     font-family Roboto, sans-serif, arial;
     font-size: 14px;
@@ -87,8 +86,6 @@ html {
     text-align: center;
     margin-bottom: 40px;
 }
-/********** Common CSS Ends **********/
-/********** Top Header CSS Code Starts  **********/
 .top-header {
     background: #f13f31;
     padding: 8px 0px;
@@ -117,8 +114,6 @@ html {
     font-size: 15px;
     color: #ffffff;
   }
-  /********** Top Header CSS Code Ends  **********/
-  /**********  Logo and Search Panel CSS Code Starts  **********/
 .search-panel {
     background: #f13f31;
     padding: 12px 0px;
@@ -159,8 +154,6 @@ html {
     font-size: 14px;
     color: #ffffff;
   }
-  /**********  Logo and Search Panel CSS Code Ends  **********/
-  /**********  Main Menu CSS Code Starts  **********/
 .main-menu {
     list-style: none;
   }
@@ -175,8 +168,6 @@ html {
     float: left;
     padding: 12px 20px;
   }
-  /**********  Main Menu CSS Code Ends  **********/
-  /**********  Product-Section CSS Code Starts  **********/
 .product-section {
 	padding-left:15px;
 	padding-right:15px;
@@ -236,8 +227,6 @@ html {
 .product-price {
 	margin-top:15px;
 }
-/**********   Product-Section CSS Code Ends  **********/
-/**********  Feature-Section CSS Code Starts  **********/
 .featured-content i {
 	font-size: 37px;
 	padding: 7px 0 0 10px;
@@ -265,8 +254,6 @@ html {
 	float:left;
 	padding:15px 0px;
 }
-/**********   Feature-Section CSS Code Ends  **********/
-/**********  Footer-Section CSS Code Starts  **********/
 .footer {
     background: #232f3e;
     padding: 50px 0px;
@@ -340,8 +327,6 @@ html {
     font-family "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
   }
-  /**********   Footer-Section CSS Code Ends  **********/
-/**********  Footer-bottom Section CSS Code Starts  **********/
 .footer2-bacbor {
     background: #232f3e;
     padding: 10px 0px;
@@ -353,5 +338,5 @@ html {
     font-family "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
   }
-  /**********   Footer-bottom Section CSS Code Ends  **********/
+
     
